@@ -1,6 +1,6 @@
-public class ArrayExample {
+public class Array {
     public static void main(String[] args) {
-        int size = 1000000;  // Adjusted for 1,000,000 elements
+        int size = 1000000;  
         int[] array = new int[size];
 
         // Fill array with values
